@@ -1,1 +1,1 @@
-# Coursera-Introduction-to-Data-Science-in-Python
+# Coursera-Applied-Data-Science-with-Python
